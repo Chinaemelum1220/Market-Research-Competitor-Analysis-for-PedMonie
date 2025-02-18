@@ -1,21 +1,17 @@
 # Market-Research-Competitor-Analysis-for-PedMonie
-![](coverpage.png)
 
 # Project Overview
 PedMonie is developing a unified digital payment solution that consolidates mobile money, bank transfers, and card payments into a seamless system. Our research aimed to: analyze the current digital payment landscape, evaluate key competitors, identify pain points and preferences of businesses using digital payments, and provide strategic recommendations to enhance PedMonie's market positioning.
 
-![](intro.png)
-
 # Research Objectives
-  1. Analyze the Digital Payment Landscape: Understand the growth trends, challenges, and opportunities in the African digital payment market.
+  1. Analyze the Digital Payment Landscape: Understand the African digital payment market's growth trends, challenges, and opportunities.
   2. Evaluate Competitors: Compare key players like Paystack, Flutterwave, and others to identify gaps and opportunities.
   3. Understand Target Audience Needs: Identify the pain points and preferences of businesses and freelancers using digital payments.
   4. Provide Strategic Recommendations: Offer actionable insights to help PedMonie differentiate itself in the market.
 
-![](objectives.png)
 
 # Methodology
-We employed a combination of secondary data analysis and primary market surveys to gather insights.
+We employed secondary data analysis and primary market surveys to gather insights.
 ### Key Methodologies:
 - Competitor Analysis: Evaluated major digital payment providers based on features, market reach, and competitive positioning.
 - Market Surveys: Collected insights on preferred payment methods, challenges, and user satisfaction.
